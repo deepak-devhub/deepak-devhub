@@ -1,3 +1,6 @@
+# Deepak VK — Full Stack Developer
+
+
 <div align="center">
 
 <!-- Animated Header -->
@@ -28,8 +31,9 @@
 
 ## 🚀 About Me
 
+## 👋 Hi, I'm **Deepak VK** — Full Stack Developer
 
-Hi, I'm Deepak VK, a Full Stack Developer from Kerala, India.
+I'm **Deepak VK**, a Full Stack Developer from Kerala, India.
 I specialize in MERN, Django, Next.js, NestJS, Flutter, and build scalable, high-performance web & mobile applications.
 I work on clean architecture, API design, modern UI/UX, and production-ready software development.
 My expertise includes React, Next.js, Node.js, NestJS, Django, FastAPI, Flutter, MongoDB, PostgreSQL, MySQL, and cloud deployments.
