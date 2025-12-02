@@ -100,12 +100,11 @@ I’m currently focused on creating efficient, user-centric digital solutions an
 <td width="50%">
 
 ### 📚 LMS - Library Management
-**Next.js • Razorpay • SEO Optimized**
+**Next.js • Razorpay**
 
 - 📖 Advanced book management system
 - 💳 Integrated payment gateway
 - 👥 Admin & user dashboards
-- 🔍 SEO-optimized pages
 
 </td>
 <td width="50%">
