@@ -229,7 +229,7 @@ mindmap
     Full Stack Development
       React 
       MERN Stack
-      Next.js SSR/SSG
+      Next.js
       Modern Frontend
     Backend Architecture
       NestJS Design
