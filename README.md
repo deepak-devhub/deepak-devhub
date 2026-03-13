@@ -291,7 +291,7 @@ Team player with clear communication
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge&logo=vercel)](https://deepakdevhub.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge&logo=vercel)](https://deepakvk.com/)
 [![Email](https://img.shields.io/badge/📧_Email-deepakvk6334@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:deepakvk6334@gmail.com)
 [![GitHub](https://img.shields.io/badge/💼_GitHub-deepak--devhub-181717?style=for-the-badge&logo=github)](https://github.com/deepak-devhub)
 
