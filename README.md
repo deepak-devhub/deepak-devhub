@@ -14,7 +14,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://deepakdevhub.vercel.app" target="_blank">
+  <a href="https://deepakvk.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/deepak-devhub" target="_blank">
