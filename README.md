@@ -76,7 +76,7 @@ AI-powered applications, RAG systems, AI chatbots, and intelligent voice agents.
 
 ### ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,postman,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,postman,prisma&theme=dark" />
 </p>
 
 ### 🤖 AI & Intelligent Systems
@@ -86,12 +86,12 @@ AI-powered applications, RAG systems, AI chatbots, and intelligent voice agents.
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,expo,flutter,dart,firebase&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,,mysqlmongodb" />
 </p>
 
 ### 🛠️ DevOps & Tools
