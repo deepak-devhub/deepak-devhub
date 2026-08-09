@@ -34,10 +34,17 @@
 ## 👋 Hi, I'm **Deepak VK** — Full Stack Developer
 
 I'm **Deepak VK**, a Full Stack Developer from Kerala, India.
-I specialize in MERN, Django, Next.js, NestJS, Flutter, and build scalable, high-performance web & mobile applications.
-I work on clean architecture, API design, modern UI/UX, and production-ready software development.
-My expertise includes React, Next.js, Node.js, NestJS, Django, FastAPI, Flutter, MongoDB, PostgreSQL, MySQL, and cloud deployments.
-I’m currently focused on creating efficient, user-centric digital solutions and optimizing backend performance.
+I specialize in React, Next.js, Node.js, NestJS, FastAPI, and React Native,
+building scalable, high-performance web & mobile applications.
+
+I work on clean architecture, API design, modern UI/UX, and production-ready
+software development.
+
+My expertise includes React, Next.js, Node.js, NestJS, FastAPI, React Native,
+PostgreSQL, MongoDB, MySQL, AI/RAG systems, and cloud infrastructure.
+
+I’m currently focused on modern application architecture, backend performance,
+AI-powered applications, RAG systems, AI chatbots, and intelligent voice agents.
 
 
 
@@ -72,9 +79,14 @@ I’m currently focused on creating efficient, user-centric digital solutions an
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,postman,prisma&theme=dark" />
 </p>
 
+### 🤖 AI & Intelligent Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark" />
+</p>
+
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,expo,flutter,dart,firebase&theme=dark" />
 </p>
 
 ### 🗄️ Databases
@@ -84,7 +96,7 @@ I’m currently focused on creating efficient, user-centric digital solutions an
 
 ### 🛠️ DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,nginx,vercel&theme=dark" />
 </p>
 
 </div>
@@ -99,6 +111,17 @@ I’m currently focused on creating efficient, user-centric digital solutions an
 <tr>
 <td width="50%">
 
+### 🤖 AI Chatbots & Voice AI Agents
+
+**LLMs • RAG • Chroma • AI Agents • Voice AI • FastAPI**
+
+- 🤖 Built AI-powered chatbots for intelligent conversations
+- 🧠 Implemented RAG-based knowledge retrieval
+- 🔎 Used embeddings and vector search for contextual responses
+- 📞 Built AI calling agents for real-time customer conversations
+- ⚡ Developed backend APIs and AI workflows using FastAPI
+- 🔗 Integrated AI agents with external APIs and business systems
+
 ### 📚 LMS - Library Management
 **Next.js • Razorpay**
 
@@ -110,7 +133,7 @@ I’m currently focused on creating efficient, user-centric digital solutions an
 <td width="50%">
 
 ### 🛒 E-Commerce Platform
-**React • NestJS • SQL**
+**React • NestJS • PostgreSQL**
 
 - 🔐 Full authentication & authorization
 - 🛍️ Cart, orders, admin panel
@@ -124,7 +147,7 @@ I’m currently focused on creating efficient, user-centric digital solutions an
 <td width="50%">
 
 ### 📝 Blog Platform
-**React • NestJS • SQL**
+**React • Next.js • NestJS • PostgreSQL**
 
 - 🔒 Secure backend architecture
 - 👤 Role-based access control
@@ -135,7 +158,7 @@ I’m currently focused on creating efficient, user-centric digital solutions an
 <td width="50%">
 
 ### 🎓 Student Management System
-**Django • Token Authentication**
+**Django • REST API • Token Authentication**
 
 - 👨‍🎓 Students, teachers, admin modules
 - 📅 Attendance tracking
@@ -203,16 +226,20 @@ I’m currently focused on creating efficient, user-centric digital solutions an
 
 ```yaml
 
-🏆 Built 5+ Production-Ready Full Stack Applications
-💼 Developed Healthcare Management System with AI Integration  
+🏆 Built multiple production-ready full-stack applications
+💼 Developed a Healthcare Management System with AI Integration
+🤖 Built AI-powered chatbots and intelligent AI agents
+🧠 Implemented RAG pipelines with embeddings and vector search
+📞 Developed AI calling agents for automated customer interactions
+🔗 Integrated LLMs with APIs and business workflows
 🚀 Created E-Commerce Platform with Custom Caching
 📚 Implemented Library Management with Payment Gateway
 🎓 Designed Student Management System with Token Auth
-📱 Developed Cross-Platform Mobile Apps using Flutter
+📱 Developed Cross-Platform Mobile Apps using React Native and Expo
 ⚡ Optimized Database Queries for Better Performance
 🔐 Implemented Secure Authentication & Authorization
-📊 Built RESTful APIs with NestJS & Django
-🌐 Deployed Applications on Vercel,
+📊 Built RESTful APIs with NestJS & FastAPI
+🌐 Deployed and maintained production applications using AWS, VPS, and Vercel
 ```
 
 </div>
@@ -227,19 +254,31 @@ I’m currently focused on creating efficient, user-centric digital solutions an
 mindmap
   root((Deepak VK))
     Full Stack Development
-      React 
-      MERN Stack
-      Next.js
-      Modern Frontend
+     React
+     Next.js
+     TypeScript
+     Modern Frontend
+
     Backend Architecture
-      NestJS Design
-      Django REST APIs
-      Microservices
-      API Optimization
+     Node.js & NestJS
+     FastAPI
+     REST APIs
+     API Optimization
+
+    AI & Intelligent Systems
+      LLMs
+      RAG
+      AI Chatbots
+      AI Agents
+      Voice AI
+      Embeddings
+      Vector Search
+    
     Mobile Development
-      Flutter Cross-Platform
-      Responsive Design
-      Native Performance
+     React Native
+     Expo
+     Cross-Platform Apps
+
     Database Design
       SQL & NoSQL
       Query Optimization
