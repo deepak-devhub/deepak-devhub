@@ -86,7 +86,7 @@ AI-powered applications, RAG systems, AI chatbots, and intelligent voice agents.
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,expo,flutter,dart,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,firebase&theme=dark" />
 </p>
 
 ### 🗄️ Databases
